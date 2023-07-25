@@ -1,0 +1,19 @@
+{
+  "name": "qr-code-component-main",
+  "version": "1.0.0",
+  "description": "Frontend Coding Challenge ",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt watch "
+  },
+  "author": "Tarun C D",
+  "license": "ISC",
+  "dependencies": {
+    "grunt": "^1.6.1",
+    "grunt-contrib-less": "^3.0.0"
+  },
+  "devDependencies": {
+    "grunt-contrib-concat": "^2.1.0",
+    "grunt-contrib-cssmin": "^5.0.0"
+  }
+}
